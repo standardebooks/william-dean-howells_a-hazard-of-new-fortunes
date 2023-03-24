@@ -49,37 +49,35 @@
 		<meta property="term" refines="#subject-6">sh2008107466</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008107467</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A Boston-based editor moves his family to Gilded Age New York, where they are soon caught up in the struggles of the time and those around them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Basil March jumps at the chance to leave his boring job to become the founding editor of a new magazine. But this also means that he must leave comfortable Boston for the confusion and chaos of 1890s New York. As March and his wife try to find a decent place to live, he also struggles to find contributors and readers. The Marches are quickly drawn into the tangled lives of their fellow New Yorkers: a bitter German socialist who lost his hand fighting for the Union in the Civil War, a colonel nostalgic for slavery, Bohemian artists, increasingly desperate workers on strike, a slick publicist, a starchy society family, and a wealthy farmer-turned-speculator who hurts those he loves most.&lt;/p&gt;
+			&lt;p&gt;Born in Ohio, &lt;a href="https://standardebooks.org/ebooks/william-dean-howells"&gt;William Dean Howells&lt;/a&gt;, (1837–1920) was a highly successful magazine editor before he became a full-time writer. He believed that this midlife novel, which drew on his own family’s experiences moving from Boston to New York, was his “most vital work.” And &lt;a href="https://standardebooks.org/ebooks/mark-twain"&gt;Mark Twain&lt;/a&gt;, whom Howells helped early in his career, called &lt;i&gt;A Hazard&lt;/i&gt; “the exactest &amp;amp; truest portrayal of New York and New York life ever written … a great book.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4600</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/hazardnewfortunes00howerich</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Hazard_of_New_Fortunes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-dean-howells_a-hazard-of-new-fortunes</meta>
 		<dc:creator id="author">William Dean Howells</dc:creator>
 		<meta property="file-as" refines="#author">Howells, William Dean</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Dean_Howells</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80002569</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">William H. Schenck</dc:contributor>
+		<meta property="file-as" refines="#artist">Schenck, William H.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
