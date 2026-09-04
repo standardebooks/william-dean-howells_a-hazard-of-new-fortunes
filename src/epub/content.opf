@@ -30,13 +30,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Hazard of New Fortunes</dc:title>
 		<meta property="file-as" refines="#title">Hazard of New Fortunes, A</meta>
-		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
-		<dc:subject id="subject-2">City and town life -- Fiction</dc:subject>
+		<dc:subject id="subject-1">New York (N.Y.)--Fiction</dc:subject>
+		<dc:subject id="subject-2">City and town life--Fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
-		<dc:subject id="subject-4">Married people -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Middle-aged persons -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Moving, Household -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Married people--Fiction</dc:subject>
+		<dc:subject id="subject-5">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-6">Middle-aged persons--Fiction</dc:subject>
+		<dc:subject id="subject-7">Moving, Household--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108377</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
